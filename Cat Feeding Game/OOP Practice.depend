@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1741708275 source:c:\users\fritz\documents\codeblocks projects\oop practice\main.cpp
+	"include/process.h"
+	"process.cpp"
+
+1741708217 c:\users\fritz\documents\codeblocks projects\oop practice\process.cpp
+	"process.h"
+
+1741708464 c:\users\fritz\documents\codeblocks projects\oop practice\include\process.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+
